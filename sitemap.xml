@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://TangRufus.github.io/blog/archives/</loc>
+        <loc>http://onsaddles.com/coming-soon/</loc>
+        <lastmod>2013-08-03T01:25:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onsaddles.com/404.html</loc>
         <lastmod>2013-08-02T22:04:39+08:00</lastmod>
     </url>
     <url>
-        <loc>http://TangRufus.github.io/</loc>
-        <lastmod>2013-08-02T22:04:39+08:00</lastmod>
+        <loc>http://onsaddles.com/blog/archives/</loc>
+        <lastmod>2013-08-03T01:25:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://TangRufus.github.io/robots.txt</loc>
+        <loc>http://onsaddles.com/</loc>
+        <lastmod>2013-08-03T01:25:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onsaddles.com/robots.txt</loc>
         <lastmod>2013-08-02T22:04:39+08:00</lastmod>
     </url>
 </urlset>
